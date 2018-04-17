@@ -1,7 +1,7 @@
 
 #container{
 	
-	width: 360px;
+	width: 600px;
 	margin: 100px auto;
 	
 	border-radius: 5px;
@@ -22,7 +22,7 @@ ul {
 	padding: 0;	
 }
 li span{
-	height: 40px;
+	height: 70px;
 	background-color: red;
 	margin-right: 20px;
 	text-align: center;
@@ -33,13 +33,13 @@ li span{
 	opacity:0;
 }
 li:hover span{
-	width: 40px;
+	width: 70px;
 	opacity: 1.0
 }
 li{
 	background-color: white;
-	line-height: 40px;
-	height: 40px;
+	line-height: 70px;
+	height: 70px;
 	color: #666;
 }
 li:nth-child(2n){
