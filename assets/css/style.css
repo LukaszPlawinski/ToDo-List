@@ -33,7 +33,7 @@ li span{
 	opacity:0;
 }
 li:hover span{
-	width: 70px;
+	width: 90px;
 	opacity: 1.0
 }
 li{
@@ -79,6 +79,6 @@ input{
 }
 input:focus{
 	background-color: #fff;
-	border: 3px solid #2980b9;
+	border: 5px solid #2980b9;
 	outline: none;
 }
